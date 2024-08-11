@@ -41,7 +41,7 @@ To set up the IPL Score Prediction project, follow these steps:
 Follow the prompts or provide input files as required by the application.
 
 ## Contributing
-Contributions are welcome! If you would like to contribute to the development of the Bank Management System, please follow these steps:
+Contributions are welcome! If you would like to contribute to the development of the IPL Score Prediction, please follow these steps:
 
 1. Fork the repository.
 2. Create a new branch for your feature or bug fix.
